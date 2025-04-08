@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+  <defs>
+    <linearGradient id="statsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4158D0;stop-opacity:1" />
+      <stop offset="46%" style="stop-color:#C850C0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFCC70;stop-opacity:1" />
+    </linearGradient>
+    <filter id="statsGlow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <style>
+      @keyframes pulse {
+        0% { opacity: 0.7; }
+        50% { opacity: 1; }
+        100% { opacity: 0.7; }
+      }
+      .pulsing {
+        animation: pulse 2s infinite;
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-5px); }
+        100% { transform: translateY(0px); }
+      }
+      .floating {
+        animation: float 3s ease-in-out infinite;
+      }
+      @keyframes blink {
+        0% { opacity: 0; }
+        50% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      .blinking {
+        animation: blink 1.5s infinite;
+      }
+    </style>
+  </defs>
+  
+  <!-- Card Background -->
+  <rect width="600" height="300" fill="#0D1117" rx="15" ry="15" stroke="url(#statsGrad)" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="300" y="40" font-family="Arial, sans-serif" font-size="24" fill="#C850C0" text-anchor="middle" filter="url(#statsGlow)" class="floating">The Legendary Stats of John Peterman</text>
+  
+  <!-- GitHub Logo -->
+  <g transform="translate(50, 70)" class="floating">
+    <path d="M32,16 C32,24.8366 24.8366,32 16,32 C7.16344,32 0,24.8366 0,16 C0,7.16344 7.16344,0 16,0 C24.8366,0 32,7.16344 32,16 Z" fill="#FFFFFF"/>
+    <path d="M16,0 C7.16375,0 0,7.16375 0,16 C0,23.0862 4.58,29.0631 10.9419,31.1856 C11.7425,31.3412 12.0344,30.8631 12.0344,30.4481 C12.0344,30.0775 12.0212,29.0569 12.0144,27.7225 C7.56187,28.6969 6.62375,25.5744 6.62375,25.5744 C5.89562,23.7225 4.84625,23.2444 4.84625,23.2444 C3.39375,22.2525 4.95625,22.2737 4.95625,22.2737 C6.5625,22.3825 7.40375,23.895 7.40375,23.895 C8.83125,26.3387 11.1525,25.6519 12.0637,25.2525 C12.2119,24.215 12.6231,23.5281 13.08,23.0894 C9.52687,22.645 5.79,21.2675 5.79,15.1387 C5.79,13.3919 6.415,11.9675 7.4375,10.8481 C7.26562,10.4531 6.72125,8.82625 7.5925,6.62687 C7.5925,6.62687 8.9375,6.20125 11.995,8.2675 C13.2719,7.91125 14.6431,7.73188 16.0013,7.7275 C17.3594,7.73188 18.7319,7.91125 20.0112,8.2675 C23.0662,6.20125 24.4087,6.62687 24.4087,6.62687 C25.2812,8.82625 24.7369,10.4531 24.565,10.8481 C25.5912,11.9675 26.21,13.3919 26.21,15.1387 C26.21,21.2837 22.4694,22.6406 18.9013,23.0762 C19.4744,23.6156 19.9881,24.6819 19.9881,26.2962 C19.9881,28.5737 19.9706,29.9337 19.9706,30.4481 C19.9706,30.8675 20.2581,31.35 21.0712,31.1843 C27.4269,29.0587 32,23.0844 32,16 C32,7.16375 24.8369,0 16,0" fill="#0D1117"/>
+  </g>
+  
+  <!-- Stats Boxes -->
+  <g transform="translate(120, 100)">
+    <!-- Code Magic -->
+    <rect x="0" y="0" width="200" height="40" rx="5" ry="5" fill="#161B22" stroke="#C850C0" stroke-width="1"/>
+    <text x="10" y="25" font-family="Monaco, monospace" font-size="14" fill="#FFFFFF">Code Magic Level:</text>
+    <text x="180" y="25" font-family="Monaco, monospace" font-size="14" fill="#FFCC70" text-anchor="end">OVER 9000</text>
+    
+    <!-- Repositories -->
+    <rect x="0" y="50" width="200" height="40" rx="5" ry="5" fill="#161B22" stroke="#C850C0" stroke-width="1"/>
+    <text x="10" y="75" font-family="Monaco, monospace" font-size="14" fill="#FFFFFF">Repositories:</text>
+    <text x="180" y="75" font-family="Monaco, monospace" font-size="14" fill="#FFCC70" text-anchor="end">Too Many</text>
+    
+    <!-- Commits -->
+    <rect x="0" y="100" width="200" height="40" rx="5" ry="5" fill="#161B22" stroke="#C850C0" stroke-width="1"/>
+    <text x="10" y="125" font-family="Monaco, monospace" font-size="14" fill="#FFFFFF">Commits Made:</text>
+    <text x="180" y="125" font-family="Monaco, monospace" font-size="14" fill="#FFCC70" text-anchor="end">∞</text>
+    
+    <!-- Coffee -->
+    <rect x="220" y="0" width="200" height="40" rx="5" ry="5" fill="#161B22" stroke="#C850C0" stroke-width="1"/>
+    <text x="230" y="25" font-family="Monaco, monospace" font-size="14" fill="#FFFFFF">Coffee Consumed:</text>
+    <text x="400" y="25" font-family="Monaco, monospace" font-size="14" fill="#FFCC70" text-anchor="end">87 Oceans</text>
+    
+    <!-- Bugs Squashed -->
+    <rect x="220" y="50" width="200" height="40" rx="5" ry="5" fill="#161B22" stroke="#C850C0" stroke-width="1"/>
+    <text x="230" y="75" font-family="Monaco, monospace" font-size="14" fill="#FFFFFF">Bugs Squashed:</text>
+    <text x="400" y="75" font-family="Monaco, monospace" font-size="14" fill="#FFCC70" text-anchor="end">Countless</text>
+    
+    <!-- Features Shipped -->
+    <rect x="220" y="100" width="200" height="40" rx="5" ry="5" fill="#161B22" stroke="#C850C0" stroke-width="1"/>
+    <text x="230" y="125" font-family="Monaco, monospace" font-size="14" fill="#FFFFFF">Features Shipped:</text>
+    <text x="400" y="125" font-family="Monaco, monospace" font-size="14" fill="#FFCC70" text-anchor="end">All of them!</text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <g class="pulsing">
+    <circle cx="50" cy="250" r="3" fill="#4158D0"/>
+    <circle cx="70" cy="260" r="2" fill="#C850C0"/>
+    <circle cx="90" cy="245" r="4" fill="#FFCC70"/>
+    <circle cx="550" cy="50" r="3" fill="#4158D0"/>
+    <circle cx="530" cy="70" r="2" fill="#C850C0"/>
+    <circle cx="560" cy="85" r="4" fill="#FFCC70"/>
+  </g>
+  
+  <!-- Terminal cursor -->
+  <rect x="450" y="250" width="10" height="20" fill="#FFCC70" class="blinking"/>
+  
+  <!-- Footer -->
+  <text x="300" y="270" font-family="Monaco, monospace" font-size="12" fill="#C850C0" text-anchor="middle">github.com/johnpeterman72</text>
+</svg>

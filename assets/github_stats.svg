@@ -42,7 +42,7 @@
   <rect width="600" height="300" fill="#0D1117" rx="15" ry="15" stroke="url(#statsGrad)" stroke-width="2"/>
   
   <!-- Title -->
-  <text x="300" y="40" font-family="Arial, sans-serif" font-size="24" fill="#C850C0" text-anchor="middle" filter="url(#statsGlow)" class="floating">The Legendary Stats of John Peterman</text>
+  <text x="300" y="40" font-family="Arial, sans-serif" font-size="24" fill="#C850C0" text-anchor="middle" filter="url(#statsGlow)" class="floating">The Legendary Stats of JP</text>
   
   <!-- GitHub Logo -->
   <g transform="translate(50, 70)" class="floating">

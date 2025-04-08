@@ -1,4 +1,4 @@
-# 🎪 Welcome to John Peterman's Coding Circus! 🎪
+# 🎪 Welcome to JP's Coding Circus! 🎪
 
 <div align="center">
   
@@ -17,52 +17,12 @@
   *By day, a code ringmaster. By night, a digital acrobat.*
 </div>
 
-## 🔥 The Legend of John Peterman
+## 🔥 The Legend of JP
 
-Legend has it that John Peterman was born during a solar eclipse while a comet passed overhead. The nurses swear his first words weren't "mama" or "dada" but "Hello World!" As a child, he could debug BASIC code before learning to tie his shoelaces.
+Legend has it that JP was born during a solar eclipse while a comet passed overhead. The nurses swear his first words weren't "mama" or "dada" but "Hello World!" As a child, he could debug BASIC code before learning to tie his shoelaces.
 
-Some say he once fixed a critical production bug using only a paperclip and pure willpower. Others claim he can read binary just by looking at it. All we know is... he's John Peterman.
+Some say he once fixed a critical production bug using only a paper clip and pure willpower. Others claim he can read binary just by looking at it. All we know is... he's John Peterman.
 
-## 🧙‍♂️ The Magical RIPER Framework
-
-```
-                         /\\
-                        /  \\
-                       /    \\
-                      /      \\
-                     /        \\
-      R             /          \\             P
-                   /            \\
-                  /              \\
-                 /                \\
-                /                  \\
-               /                    \\
-      I       /____________________ \\       E
-                        R
-```
-
-My claim to fame is the mysterious RIPER framework for Cursor. What does RIPER stand for?
-
-- **R**evolutionary code generation
-- **I**ntelligent pattern recognition
-- **P**erformance optimization
-- **E**nhanced developer experience
-- **R**emarkable results
-
-*Disclaimer: The effectiveness of RIPER may cause spontaneous coding euphoria and uncontrollable productivity.*
-
-## 📈 Productivity Metrics Since Adopting RIPER
-
-<div align="center">
-  
-```
-Bugs Fixed  │█████████████████████████████████████  165%
-Code Speed  │████████████████████████████████      145%
-Coffee Use  │█████████                              50% (A miracle!)
-Hair Loss   │█                                       5% (Even more miraculous!)
-```
-
-</div>
 
 ## 🎭 Current Projects
 

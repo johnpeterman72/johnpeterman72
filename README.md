@@ -46,7 +46,7 @@ I'm currently juggling several circus acts:
 |---------|-------------|--------|
 | **[CursorRIPER](https://github.com/johnpeterman72/CursorRIPER)** | The flagship implementation of RIPER technology | 🌟 Evolving daily |
 | **[The Circus](https://github.com/johnpeterman72/The-Circus)** | A mysterious repository of wonders | 🎪 Accepting new performers |
-| **[HeatFlowLogics](https://github.com/johnpeterman72/HeatFlowLogics)** | My secret furnace optimization project | 🔥 Getting hotter |
+| **[HeatFlowLogics](https://github.com/johnpeterman72/HeatFlowLogics)** | My secret themodynamics optimization project | 🔥 Getting hotter |
 | **[Cursor-Adaptive-Conversion](https://github.com/johnpeterman72/cursor-adaptive-conversion)** | Teaching old code new tricks | 🧠 Learning |
 
 ## 🦄 Secret Skills

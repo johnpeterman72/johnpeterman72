@@ -32,7 +32,7 @@ I'm currently juggling several circus acts:
 |---------|-------------|--------|
 | **CursorRIPER** | The flagship implementation of RIPER technology | 🌟 Evolving daily |
 | **The Circus** | A mysterious repository of wonders | 🎪 Accepting new performers |
-| **HeatFlowLogics** | My secret furnace optimization project | 🔥 Getting hotter |
+| **HeatFlowLogics** | My secret thermodynamic optimization project | 🔥 Getting hotter |
 | **Cursor-Adaptive-Conversion** | Teaching old code new tricks | 🧠 Learning |
 
 ## 🦄 Secret Skills
@@ -40,7 +40,7 @@ I'm currently juggling several circus acts:
 <div align="center">
   
 ```javascript
-const johnPeterman = {
+const JP = {
   codingPowers: ['JavaScript', 'Python', 'TypeScript', 'RIPER Magic'],
   secretTalents: ['Can guess your compiler errors before they happen',
                  'Talks to rubber ducks who actually answer back',
@@ -70,7 +70,7 @@ const johnPeterman = {
 
 </div>
 
-## 🧠 The PETERMAN Principle
+## 🧠 The JP Principle
 
 Every coding problem can be solved by:
 

@@ -1,4 +1,4 @@
-# 🎪 Welcome to John Peterman's Coding Circus! 🎪
+# 🎪 Welcome to JP's Coding Circus! 🎪
 
 <div align="center">
   
@@ -16,47 +16,19 @@
   
   *By day, a code ringmaster. By night, a digital acrobat.*
 
-  <img src="https://raw.githubusercontent.com/johnpeterman72/johnpeterman72/main/assets/github_stats.svg" width="600" alt="John Peterman's GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/johnpeterman72/johnpeterman72/main/assets/github_stats.svg" width="600" alt="JP's GitHub Stats"/>
 </div>
 
-## 🔥 The Legend of John Peterman
+## 🔥 The Legend of JP
 
-Legend has it that John Peterman was born during a solar eclipse while a comet passed overhead. The nurses swear his first words weren't "mama" or "dada" but "Hello World!" As a child, he could debug BASIC code before learning to tie his shoelaces.
+Legend has it that JP was born during a solar eclipse while a comet passed overhead. The nurses swear his first words weren't "mama" or "dada" but "Hello World!" As a child, he could debug BASIC code before learning to tie his shoelaces.
 
-Some say he once fixed a critical production bug using only a paperclip and pure willpower. Others claim he can read binary just by looking at it. All we know is... he's John Peterman.
+Some say he once fixed a critical production bug using only a paper clip and pure willpower. Others claim he can read binary just by looking at it. All we know is... he's JP.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/johnpeterman72/johnpeterman72/main/assets/peterman_code.svg" width="700" alt="John Peterman's Coding Magic"/>
+  <img src="https://raw.githubusercontent.com/johnpeterman72/johnpeterman72/main/assets/peterman_code.svg" width="700" alt="JP's Coding Magic"/>
 </div>
 
-## 🧙‍♂️ The Magical RIPER Framework
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/johnpeterman72/johnpeterman72/main/assets/riper_framework.svg" width="400" alt="RIPER Framework"/>
-</div>
-
-My claim to fame is the mysterious RIPER framework for Cursor. What does RIPER stand for?
-
-- **R**evolutionary code generation
-- **I**ntelligent pattern recognition
-- **P**erformance optimization
-- **E**nhanced developer experience
-- **R**emarkable results
-
-*Disclaimer: The effectiveness of RIPER may cause spontaneous coding euphoria and uncontrollable productivity.*
-
-## 📈 Productivity Metrics Since Adopting RIPER
-
-<div align="center">
-  
-```
-Bugs Fixed  │█████████████████████████████████████  165%
-Code Speed  │████████████████████████████████      145%
-Coffee Use  │█████████                              50% (A miracle!)
-Hair Loss   │█                                       5% (Even more miraculous!)
-```
-
-</div>
 
 ## 📊 My Contribution Calendar Art
 
@@ -82,7 +54,7 @@ I'm currently juggling several circus acts:
 <div align="center">
   
 ```javascript
-const johnPeterman = {
+const JP = {
   codingPowers: ['JavaScript', 'Python', 'TypeScript', 'RIPER Magic'],
   secretTalents: ['Can guess your compiler errors before they happen',
                  'Talks to rubber ducks who actually answer back',
@@ -116,7 +88,7 @@ const johnPeterman = {
 
 </div>
 
-## 🧠 The PETERMAN Principle
+## 🧠 The JP Principle
 
 Every coding problem can be solved by:
 
@@ -153,7 +125,7 @@ drwxr-xr-x  7 johnpeterman staff  224 Apr 7 15:56 super_secret_project
 $ cat ~/projects/super_secret_project/README.md
 # TOP SECRET
 This file contains the secret recipe for RIPER technology.
-Access restricted to John Peterman only.
+Access is restricted to JP only.
 
 DO NOT SHARE WITH ANYONE!
 
@@ -168,7 +140,7 @@ Connection to peterman-terminal closed.
 
 </details>
 
-## 🌟 The Peterman Personality Quiz
+## 🌟 The JP Personality Quiz
 
 <details>
 <summary>🔮 Which developer archetype are you? Click to find out!</summary>
@@ -207,7 +179,7 @@ Answer these questions mentally, then check your result below:
 - Mostly C's: **The Chaos Engineer** - Somehow your madness produces genius.
 - Mostly D's: **The Code Wizard** - No one understands how you do it, but it works!
 
-*Actually, John Peterman is all of these simultaneously, which explains everything.*
+*Actually, JP is all of these simultaneously, which explains everything.*
 
 </details>
 

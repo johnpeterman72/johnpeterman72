@@ -58,6 +58,14 @@ Hair Loss   │█                                       5% (Even more miraculou
 
 </div>
 
+## 📊 My Contribution Calendar Art
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/johnpeterman72/johnpeterman72/main/assets/contributions.svg" width="700" alt="John Peterman's Contribution Calendar Art"/>
+  <br>
+  <em>Yes, I plan my GitHub commits to spell RIPER. Art meets obsession.</em>
+</div>
+
 ## 🎭 Current Projects
 
 I'm currently juggling several circus acts:
@@ -217,6 +225,44 @@ _Refresh to see a new joke!_
 
 </details>
 
+## 🎭 The Magic Trick
+
+<details>
+<summary>🎩 Watch me pull code out of a hat (click to reveal)</summary>
+<br>
+
+<div align="center">
+  
+```
+               _.--._
+             _| | | |_
+            | | | | | |
+     _.--._| | | | | |    🐇
+    | | | | | | | | | |  /
+    | | | | | |_|_|_|_|_/
+    | | | | | |
+    | | | | | |
+    | | | | | |
+```
+
+```python
+def magic_trick():
+    hat = "empty"
+    print("Waving my magic wand...")
+    hat = "🐇 Rabbit!"
+    return hat
+
+result = magic_trick()
+print(f"Pulled from hat: {result}")
+# Output: Pulled from hat: 🐇 Rabbit!
+```
+
+_A magician never reveals their secrets... except in source control._
+
+</div>
+
+</details>
+
 ## 📫 Contact the Ringmaster
 
 <div align="center">
@@ -243,6 +289,10 @@ _Refresh to see a new joke!_
 - The README fractal pattern contains a secret message
 - If you count every 7th word in this README, it spells out... well, nothing, but you just wasted time counting!
 
+```
+VGhlIFJJUEVSIGZyYW1ld29yayBpcyBhY3R1YWxseSBhIHRpbWUgbWFjaGluZSB0aGF0IGxldHMgeW91IHJld3JpdGUgY29kZSBmcm9tIHRoZSBmdXR1cmUuIERvbid0IHRlbGwgYW55b25lLg==
+```
+
 </details>
 
 ---
@@ -257,6 +307,8 @@ _Refresh to see a new joke!_
   *PS: If you read this far, try clicking on the Konami code somewhere on this page...*
   
   <br>
+  
+  <!-- Secret comment: The cake is a lie but the code is real -->
   
   <img src="https://komarev.com/ghpvc/?username=johnpeterman72&style=flat-square&color=blueviolet" alt="Profile Views Counter"/>
 </div>

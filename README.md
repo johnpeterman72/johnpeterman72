@@ -16,7 +16,8 @@ I'm currently juggling several circus acts:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[CursorRIPER](https://github.com/johnpeterman72/CursorRIPER)** | The flagship implementation of RIPER technology | 🌟 Evolving daily |
+|**[CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma)**| Symbol based version with a small footprint | New |
+|**[CursorRIPER](https://github.com/johnpeterman72/CursorRIPER)** | The flagship implementation of RIPER technology | 🌟 Evolving daily |
 | **[The Circus](https://github.com/johnpeterman72/The-Circus)** | A mysterious repository of wonders | 🎪 Accepting new performers |
 | **[HeatFlowLogics](https://github.com/johnpeterman72/HeatFlowLogics)** | My secret thermodynamics optimization project | 🔥 Getting hotter |
 | **[Cursor-Adaptive-Conversion](https://github.com/johnpeterman72/cursor-adaptive-conversion)** | Teaching old code new tricks | 🧠 Learning |

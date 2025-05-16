@@ -18,9 +18,10 @@ I'm currently juggling several circus acts:
 |---------|-------------|--------|
 |**[CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma)**| Symbol based version with a small footprint | New |
 |**[CursorRIPER](https://github.com/johnpeterman72/CursorRIPER)** | The flagship implementation of RIPER technology | 🌟 Evolving daily |
+|**[CursorRIPER.sigma-lite](https://github.com/johnpeterman72/CursorRIPER.sigma-lite)** | The lightweight version of [CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma) | 🌟 Works great with Claude |
 | **[The Circus](https://github.com/johnpeterman72/The-Circus)** | A mysterious repository of wonders | 🎪 Accepting new performers |
 | **[HeatFlowLogics](https://github.com/johnpeterman72/HeatFlowLogics)** | My secret thermodynamics optimization project | 🔥 Getting hotter |
-| **[Cursor-Adaptive-Conversion](https://github.com/johnpeterman72/cursor-adaptive-conversion)** | Teaching old code new tricks | 🧠 Learning |
+| **[LiteGraph.js Study Project](https://github.com/johnpeterman72/LiteGraph.js-Study)** | How far can we push LiteGraph.js | 🧠 Learning |
 
 </div>
 

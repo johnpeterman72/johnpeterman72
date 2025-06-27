@@ -16,12 +16,14 @@ I'm currently juggling several circus acts:
 
 | Project | Description | Status |
 |---------|-------------|--------|
-|**[CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma)**| Symbol based version with a small footprint | New |
+|**[CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma)**| Symbol based version with a small footprint | New This is the only one I use |
 |**[CursorRIPER](https://github.com/johnpeterman72/CursorRIPER)** | The flagship implementation of RIPER technology | 🌟 Evolving daily |
 |**[CursorRIPER.sigma-lite](https://github.com/johnpeterman72/CursorRIPER.sigma-lite)** | The lightweight version of [CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma) | 🌟 Works great with Claude |
 | **[The Circus](https://github.com/johnpeterman72/The-Circus)** | A mysterious repository of wonders | 🎪 Accepting new performers |
 | **[HeatFlowLogics](https://github.com/johnpeterman72/HeatFlowLogics)** | My secret thermodynamics optimization project | 🔥 Getting hotter |
 | **[LiteGraph.js Study Project](https://github.com/johnpeterman72/LiteGraph.js-Study)** | How far can we push LiteGraph.js | 🧠 Learning |
+| **[Enhanced-Research-Prompts](https://github.com/johnpeterman72/Enhanced-Research-Prompts)**| Cute collection of my research prompts| engineering|
+| **[Simple-PDR-Wizard](https://github.com/johnpeterman72/Simple-PDR-Wizard)**| just a very simple PDR wizard| cute abd cheap|
 
 </div>
 

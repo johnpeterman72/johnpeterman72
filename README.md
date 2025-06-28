@@ -11,6 +11,7 @@
 
 
 ## 🎭 Current Projects
+Quick Document to highlight the different CursorRIPER variants. [CursorRIPER_variants_comparison](https://github.com/johnpeterman72/johnpeterman72/blob/main/cursorRIPER_variants_comparison.md)
 
 I'm currently juggling several circus acts:
 
